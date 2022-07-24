@@ -2,7 +2,24 @@
     "name": "hacker-world",
     "displayName": "Hacker World",
     "description": "VS Code theme to take you to the hacker world",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "BhupenderOjha",
+    "icon":"icon.png",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/bramniwasojha/hacker-world"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "dark theme",
+        "hack",
+        "hacker",
+        "hacker-world",
+        "hacker world",
+        "bhupender",
+        "bhupenderojha"
+    ],
     "engines": {
         "vscode": "^1.69.0"
     },
