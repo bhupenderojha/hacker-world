@@ -1,0 +1,21 @@
+{
+    "name": "hacker-world",
+    "displayName": "Hacker World",
+    "description": "VS Code theme to take you to the hacker world",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hacker World",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hacker World-color-theme.json"
+            }
+        ]
+    }
+}
