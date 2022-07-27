@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## 1.0.1: updated screenshots in readme file
+
+## 1.0.2: updated status bar background and border
