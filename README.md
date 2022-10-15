@@ -7,6 +7,10 @@ Install the theme and become a hacker 🔥
 ## Screenshots  
 
 ---
+Extension Page
+
+![Extension page screenshot](./screenshots/extension.png)
+
 Welcome
 
 ![Welcome screenshot](./screenshots/welcome.png)
